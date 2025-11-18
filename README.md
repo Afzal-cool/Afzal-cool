@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Afzal-cool
+- 👋 Hi, I’m @Afsal Ahamed
 - 👀 I’m interested in ... cyber security 
 - 🌱 I’m currently learning ... ethical hacking 
 - 💞️ I’m looking to collaborate on ... devaloper
